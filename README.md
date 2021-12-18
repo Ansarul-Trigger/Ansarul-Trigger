@@ -5,7 +5,12 @@
 
 I Provide web design & development related services such us :-✅ convert any psd to html ✅ Build Landing Page ✅ Make creative custom website ✅ Make WordPress website 
 
-Skills: WordPress ✅ JavaScript ✅ PHP ✅ HTML5 / CSS3 / SASS / Bootstrap ✅ Photoshop / Illustrator
+🤷‍♂️ Skills & Experiance: 
+ ✅WordPress 
+ ✅ JavaScript 
+ ✅ PHP 
+ ✅ HTML5 / CSS3 / SASS / Bootstrap 
+ ✅ Photoshop / Illustrator
 
 - 🔭 I’m currently working on skido page 
 - 🌱 I’m currently learning php 
