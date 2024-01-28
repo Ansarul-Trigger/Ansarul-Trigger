@@ -13,7 +13,7 @@ I Provide web design & development related services such us :-✅ convert any ps
  ✅ Photoshop / Illustrator / Figma
 
 - 🔭 I’m currently working on skido page 
-- 🌱 I’m currently learning php 
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: +8801736503006 
