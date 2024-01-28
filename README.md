@@ -3,14 +3,14 @@
 ### Hi there 👋, my name is Ansarul
 #### I am Web designer & developer
 
-I Provide web design & development related services such us :-✅ convert any psd to html ✅ Build Landing Page ✅ Make creative custom website ✅ Make WordPress website 
+I Provide web design & development related services such us :-✅ convert any psd to html ✅ Build Landing Page ✅ Make creative custom website ✅ Make WordPress website and Many more
 
 🤷‍♂️ Skills & Experiance: 
  ✅WordPress 
- ✅ JavaScript 
+ ✅ JavaScript / Jquery / React  
  ✅ PHP 
- ✅ HTML5 / CSS3 / SASS / Bootstrap 
- ✅ Photoshop / Illustrator
+ ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind CSS 
+ ✅ Photoshop / Illustrator / Figma
 
 - 🔭 I’m currently working on skido page 
 - 🌱 I’m currently learning php 
